@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @halitince7
 - 👀 I’m interested in Machine Learning and AI.
-- 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me halitince7@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: 

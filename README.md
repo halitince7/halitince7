@@ -4,13 +4,13 @@
 
 <h1 align="center">Machine Learning Engineer</h1>
 
-<p align="hustify">Welcome to my GitHub page! I'm a Machine Learning Engineer based in Turkey, passionate about solving real-world problems with cutting-edge AI and data science techniques. I specialize in automating tasks using Python, with a particular focus on image processing and natural language processing (NLP).</p>
+<p align="hustify">Welcome to my GitHub page! I'm a Machine Learning Engineer based, passionate about solving real-world problems with cutting-edge AI and data science techniques. I specialize in automating tasks using Python, with a particular focus on image processing and natural language processing (NLP).</p>
 
 
 
 ## About Me
 
-- 💬 Ask me about Mathematics, Python, ML/DL and applications.
+
 - 🌱 I’m constantly learning and exploring new technologies in the field of machine learning and deep learning.
 - 🛠 I enjoy building projects from scratch and finding creative solutions to complex problems.
 - 💬 I love sharing knowledge, whether it's through blog posts, tutorials, or engaging discussions.
@@ -21,7 +21,7 @@
 - ♟️ I love playing online chess, and you can find me on Lichess with the username [mathatin90](https://lichess.org/@/mathatin90).
 - 📊 I share interesting math facts and AI insights on my Twitter account [@matematik_facts](https://x.com/matematik_facts).
 
-
+- 💬 Ask me about Mathematics, Python, ML/DL and applications.
 - ⚡ Fun fact: It is theoretically possible to travel to Andromeda within 30 years.
 
 ## My Work

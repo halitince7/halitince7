@@ -4,7 +4,7 @@
 
 <h1 align="center">Machine Learning Engineer</h1>
 
-<p align="hustify">Welcome to my GitHub page! I'm a Machine Learning Engineer passionate about solving real-world problems with cutting-edge AI and data science techniques. I specialize in automating tasks using Python, with a particular focus on image processing and natural language processing (NLP).</p>
+<p align="hustify">Welcome to my GitHub page! I'm a Machine Learning Engineer passionate about solving real-world problems with cutting-edge AI and data science techniques. I specialize in automating tasks using Python and C++, with a particular focus on image processing and natural language processing (NLP).</p>
 
 
 

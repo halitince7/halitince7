@@ -27,6 +27,15 @@ I'm a Machine Learning Engineer focused on building scalable, AI-driven solution
 
 ---
 
+## Fun Stuff
+
+- Amateur astronomy — observing the night sky with my 130p SkyWatcher telescope  
+- Online chess — [Lichess profile](https://lichess.org/@/mathatin90)  
+- Rowing — recently picked up rowing for a balance of mind and movement  
+- Sharing math and AI facts — [@matematik_facts](https://x.com/matematik_facts)
+
+---
+
 ## Let's Connect
 
 I'm open to collaboration, new ideas, and thoughtful conversations around technology and innovation.  
@@ -38,4 +47,3 @@ Twitter: [@matematik_facts](https://x.com/matematik_facts)
 halitince7/halitince7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-

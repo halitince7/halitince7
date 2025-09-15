@@ -32,7 +32,7 @@ I'm a Machine Learning Engineer focused on building scalable, AI-driven solution
 - Amateur astronomy — observing the night sky with my 130p SkyWatcher telescope  
 - Online chess — [Lichess profile](https://lichess.org/@/mathatin90)  
 - Rowing — recently picked up rowing for a balance of mind and movement  
-- Sharing math and AI facts — [@matematik_facts](https://x.com/matematik_facts)
+- Sharing math and AI facts — [@matematik_facts](https://x.com/FactsMath12)
 
 ---
 

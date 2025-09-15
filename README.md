@@ -41,7 +41,7 @@ I'm a Machine Learning Engineer focused on building scalable, AI-driven solution
 I'm open to collaboration, new ideas, and thoughtful conversations around technology and innovation.  
 Email: **halitince7@gmail.com**  
 LinkedIn: [linkedin.com/in/halitince7](https://www.linkedin.com/in/halitince7/)  
-Twitter: [@matematik_facts](https://x.com/matematik_facts)
+Twitter: [@FactsMath12](https://x.com/FactsMath12)
 
 <!---
 halitince7/halitince7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
